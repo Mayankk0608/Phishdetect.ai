@@ -26,7 +26,7 @@ export function Settings() {
     confidenceDrop: 15,
     emailAlertsEnabled: true,
     emailAddress: "phishguard-ops@dev.aws.internal",
-    import.meta.env.VITE_SLACK_WEBHOOK_URL
+    //import.meta.env.VITE_SLACK_WEBHOOK_URL
     slackConnected: true,
     pagerDutyEnabled: false,
     pagerDutyKey: "",
