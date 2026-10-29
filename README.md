@@ -194,14 +194,6 @@ phishguard-ai/
 npm install
 ```
 
-### Configure environment
-
-Create a `.env.local` file in the project root and add your API key:
-
-```bash
-GEMINI_API_KEY=your_api_key_here
-```
-
 The app loads environment variables with dotenv and uses the Gemini client automatically when available.
 
 ### Run locally
@@ -214,6 +206,12 @@ Then open:
 
 ```text
 http://localhost:3000
+```
+or 
+
+vercel link: 
+```text
+https://phishdetect-ai-hsad-bice.vercel.app/
 ```
 
 ## Development commands
