@@ -206,12 +206,17 @@ Then open:
 
 ```text
 http://localhost:3000
-```
-or 
+``` 
+Accessable link for my project
 
 vercel link: 
 ```text
 https://phishdetect-ai-hsad-bice.vercel.app/
+```
+
+render link: 
+```text
+https://phishdetect-ai.onrender.com/
 ```
 
 ## Development commands
